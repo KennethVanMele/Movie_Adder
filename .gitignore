@@ -4,3 +4,6 @@ movies.txt
 movies.xls
 
 venv
+.idea/misc.xml
+
+.idea/Movie_Adder.iml
